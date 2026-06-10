@@ -1,6 +1,6 @@
-# \# Fashion MNIST Image Classifier
+# Fashion MNIST Image Classifier
 
-# Comparing a Simple Feedforward Neural Network and a Convolutional Neural Network (CNN) on the Fashion MNIST dataset.
+Comparing a Simple Feedforward Neural Network and a Convolutional Neural Network (CNN) on the Fashion MNIST dataset.
 
 # 
 
