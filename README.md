@@ -23,3 +23,12 @@ A CNN that learns spatial feature maps through convolutional and pooling layers 
 | Test Accuracy          |~88%                | ~91%                 |
 | Weakest class          |Shirt (55.7% recall)| Shirt (70.5% recall) |
 | Most confused pair     |Shirt ↔ T-shirt/top | Shirt ↔ T-shirt/top  |
+
+
+## License
+
+© 2026 Octavia May. All rights reserved.
+
+This code is shared publicly for portfolio review only. You may view it,
+but you may not copy, reuse, modify, or redistribute any part of it
+without my written permission. See [LICENSE](LICENSE) for details.
